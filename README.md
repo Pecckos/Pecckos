@@ -68,7 +68,7 @@ That’s usually where the real learning begins.
 
 - Network & Infrastructure Security  
   - VLANs, ACLs, segmentation & routing  
-  - Understanding how networks fail — and how to defend them  
+  - Understanding how networks fail and how to defend them  
 
 - Linux & CLI  
   - Scripting, tooling and automation  
